@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian! 👋
+# Hi there, I'm Sebastian! 
 
 ### Software Engineering Student
 
@@ -27,13 +27,9 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 **Tools & Environment:**
 * Git & GitHub
 * VS Code
-* Windows / WSL
 * Maven & Gradle
 
 ## Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/souriscg](https://www.linkedin.com/in/souriscg/)
 * **Portfolio / Projects:** Check out my repositories below!
-
----
-*“Always coding, always learning.”*
