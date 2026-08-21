@@ -23,7 +23,6 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 
 **Databases:**
 * PostgreSQL
-* MariaDB
 
 **Tools & Environment:**
 * Git & GitHub
