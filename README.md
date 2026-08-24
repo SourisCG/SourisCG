@@ -28,6 +28,7 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 * Git & GitHub
 * VS Code
 * Maven & Gradle
+* Linux & windows
 
 ## Let's Connect!
 
