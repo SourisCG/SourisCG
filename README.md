@@ -16,7 +16,6 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 
 **Languages:**
 * Python
-* PHP
 * JavaScript / Node.js
 * Java
 * Rust
