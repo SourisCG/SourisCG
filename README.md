@@ -59,13 +59,13 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SourisCG&theme=tokyonight" alt="SourisCG's GitHub stats" />
+<a href="https://github.com/SourisCG"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SourisCG&theme=tokyonight" alt="SourisCG's GitHub stats" /></a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SourisCG&theme=tokyonight" alt="Top languages" />
+<a href="https://github.com/SourisCG?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SourisCG&theme=tokyonight" alt="Top languages" /></a>
 
-<img src="https://streak-stats.demolab.com?user=SourisCG&theme=tokyonight&background=1A1B26&hide_border=true&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&sideLabels=BB9AF7&dates=C0CAF5" alt="GitHub Streak" />
+<a href="https://github.com/SourisCG?tab=repositories"><img src="https://streak-stats.demolab.com?user=SourisCG&theme=tokyonight&background=1A1B26&hide_border=true&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&sideLabels=BB9AF7&dates=C0CAF5" alt="GitHub Streak" /></a>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SourisCG&theme=tokyonight" alt="Profile details" />
+<a href="https://github.com/SourisCG"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SourisCG&theme=tokyonight" alt="Profile details" /></a>
 
 </div>
 
