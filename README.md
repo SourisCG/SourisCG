@@ -1,7 +1,9 @@
+<a href="https://github.com/SourisCG"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=170&section=header&text=Sebasti%C3%A1n%20Garc%C3%ADa&fontSize=48&fontColor=1A1B26&animation=fadeIn&desc=%40SourisCG&descAlignY=58&descSize=18" alt="Sebastián García" /></a>
+
 <div align="center">
 
 <a href="https://github.com/SourisCG">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Sebasti%C3%A1n;Software+Engineering+Student;Backend+%26+Systems+Enthusiast;Rust+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Based+in+Mexico" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+%26+Systems+Enthusiast;Rust+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+PostgreSQL;Based+in+Mexico" alt="Typing SVG" />
 </a>
 
 <br/>
