@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SourisCG&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=SourisCG&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS)](https://github.com/SourisCG)
 [![GitHub Followers](https://img.shields.io/github/followers/SourisCG?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1A1B26)](https://github.com/SourisCG?tab=followers)
 [![Pull Shark](https://img.shields.io/badge/ACHIEVEMENT-PULL_SHARK-1A1B26?style=for-the-badge&logo=github&logoColor=FF9E64)](https://github.com/SourisCG?tab=achievements)
 
@@ -59,12 +59,8 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 
 <div align="center">
 
-<a href="https://github.com/SourisCG"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SourisCG&theme=tokyonight" alt="SourisCG's GitHub stats" /></a>
-
-<a href="https://github.com/SourisCG?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SourisCG&theme=tokyonight" alt="Top languages" /></a>
-
+<a href="https://github.com/SourisCG"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SourisCG&theme=tokyonight" alt="SourisCG's GitHub stats" /></a> <a href="https://github.com/SourisCG?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SourisCG&theme=tokyonight" alt="Top languages" /></a>
 <a href="https://github.com/SourisCG?tab=repositories"><img src="https://streak-stats.demolab.com?user=SourisCG&theme=tokyonight&background=1A1B26&hide_border=true&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&sideLabels=BB9AF7&dates=C0CAF5" alt="GitHub Streak" /></a>
-
 <a href="https://github.com/SourisCG"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SourisCG&theme=tokyonight" alt="Profile details" /></a>
 
 </div>
