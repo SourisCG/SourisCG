@@ -22,21 +22,21 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 
 **Core**
 
-![Rust](https://img.shields.io/badge/Rust-1A1B26?style=for-the-badge&logo=rust&logoColor=FF9E64)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A)
-![Java](https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=7DCFFF)
+[![Rust](https://img.shields.io/badge/Rust-1A1B26?style=for-the-badge&logo=rust&logoColor=FF9E64)](https://github.com/SourisCG?tab=repositories&language=rust)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/SourisCG?tab=repositories&language=javascript)
+[![Node.js](https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A)](https://nodejs.org)
+[![Java](https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://github.com/SourisCG?tab=repositories&language=java)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=7DCFFF)](https://www.postgresql.org)
 
 **Tools & Environment**
 
-![Git](https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=C0CAF5)
-![VS Code](https://img.shields.io/badge/VS_Code-1A1B26?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Maven](https://img.shields.io/badge/Maven-1A1B26?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
-![Gradle](https://img.shields.io/badge/Gradle-1A1B26?style=for-the-badge&logo=gradle&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-1A1B26?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Windows](https://img.shields.io/badge/Windows-1A1B26?style=for-the-badge&logo=windows11&logoColor=0078D6)
+[![Git](https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=F05033)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=C0CAF5)](https://github.com/SourisCG)
+[![VS Code](https://img.shields.io/badge/VS_Code-1A1B26?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com)
+[![Maven](https://img.shields.io/badge/Maven-1A1B26?style=for-the-badge&logo=apachemaven&logoColor=C71A36)](https://maven.apache.org)
+[![Gradle](https://img.shields.io/badge/Gradle-1A1B26?style=for-the-badge&logo=gradle&logoColor=FFFFFF)](https://gradle.org)
+[![Linux](https://img.shields.io/badge/Linux-1A1B26?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.kernel.org)
+[![Windows](https://img.shields.io/badge/Windows-1A1B26?style=for-the-badge&logo=windows11&logoColor=0078D6)](https://www.microsoft.com/windows)
 
 ## What I'm Currently Working On
 
