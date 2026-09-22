@@ -59,13 +59,13 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SourisCG&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1A1B26&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="SourisCG's GitHub stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SourisCG&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1A1B26&hide_border=true&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" alt="SourisCG's GitHub stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourisCG&layout=compact&langs_count=4&hide=python,html,css,astro,typescript&theme=tokyonight&bg_color=1A1B26&hide_border=true&title_color=7AA2F7&text_color=C0CAF5" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SourisCG&layout=compact&langs_count=4&hide=python,html,css,astro,typescript&theme=tokyonight&bg_color=1A1B26&hide_border=true&title_color=7AA2F7&text_color=C0CAF5" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=SourisCG&theme=tokyonight&background=1A1B26&hide_border=true&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&sideLabels=BB9AF7&dates=C0CAF5" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SourisCG&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=FF9E64&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SourisCG&theme=tokyonight" alt="Profile details" />
 
 </div>
 
