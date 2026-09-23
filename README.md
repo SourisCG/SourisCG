@@ -41,9 +41,7 @@ When I'm not studying or working, I'm usually building personal tools, experimen
 ## What I'm Currently Working On
 
 - **MoonClip** — Open-source, local-first game clip recorder for Linux & Windows (Rust + Tauri).
-- **Ecosistema-Personal** — Personal web ecosystem to streamline and manage my daily tools.
-- **SourisBot** — Maintaining and expanding a custom Discord automation bot.
-- **Game Development** — Collaborating on a private Roblox project with friends.
+- **BotDealer** — Maintaining and expanding a custom Discord automation bot.
 - Always learning and experimenting with AI-powered development tools to optimize my workflow.
 
 ## Featured Projects
